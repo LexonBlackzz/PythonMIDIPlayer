@@ -7,6 +7,10 @@ Originally made as a funny project. It can load over 1 billion notes in under 20
 
 With the help of Anon64(Anon64#7195), Assile(Assile#2704), and Sono's MIDI parser written in Python (https://gist.github.com/SonoSooS/6ad345ef21bed2bb74c05d8b52c6fb82), this has become a reality.
 
+# How to play a MIDI?
+
+Simply just drag your MIDI file into the python script. It's that easy!
+
 # Requirements
 
 Required modules:
