@@ -1,7 +1,7 @@
 # PythonMIDIPlayer
 Fast MIDI Player, written in Python. 🐇
 
-![]https://github.com/LexonBlackzz/PythonMIDIPlayer/blob/main/Example.gif
+![](https://github.com/LexonBlackzz/PythonMIDIPlayer/blob/main/Example.gif)
 
 Originally made as a funny project.
 
