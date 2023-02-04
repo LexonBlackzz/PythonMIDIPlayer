@@ -3,7 +3,7 @@ Fast MIDI Player, written in Python. 🐇
 
 ![](https://github.com/LexonBlackzz/PythonMIDIPlayer/blob/main/Example.gif)
 
-Originally made as a funny project.
+Originally made as a funny project. It can load over 1 billion notes in under 20 seconds!
 
 With the help of Anon64(Anon64#7195), Assile(Assile#2704), and Sono's MIDI parser written in Python (https://gist.github.com/SonoSooS/6ad345ef21bed2bb74c05d8b52c6fb82), this has become a reality.
 
