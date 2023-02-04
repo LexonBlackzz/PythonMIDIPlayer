@@ -1,6 +1,8 @@
 # PythonMIDIPlayer
 Fast MIDI Player, written in Python. 🐇
 
+![]https://github.com/LexonBlackzz/PythonMIDIPlayer/blob/main/Example.gif
+
 Originally made as a funny project.
 
 With the help of Anon64(Anon64#7195), Assile(Assile#2704), and Sono's MIDI parser written in Python (https://gist.github.com/SonoSooS/6ad345ef21bed2bb74c05d8b52c6fb82), this has become a reality.
@@ -23,6 +25,6 @@ No piano, only falling notes.
 
 This isn't some crazy polished work, it's just a little project. 😉
 
-#Help?
+# Help?
 
 You are absolutely welcome to fork, and issue pull requests to make this little script better! 😊
