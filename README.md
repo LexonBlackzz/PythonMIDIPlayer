@@ -14,7 +14,7 @@ Simply just drag your MIDI file into the python script. It's that easy!
 # Requirements
 
 Required modules:
-pySDL2 (pip install pysdl2) and KDMAPI (pip install KDMAPI)
+pySDL2 (pip install pysdl2) (You also require to have SDL2.dll) and KDMAPI (pip install KDMAPI)
 
 OmniMIDI Synth is required in order for it to work as it uses KDMAPI for clear, low latency sound.
 
@@ -29,6 +29,8 @@ No piano, only falling notes.
 
 This isn't some crazy polished work, it's just a little project. 😉
 
-# Help?
+# Help!! The program doesn't launch!!
+
+You also need to install ![SDL2.dll.](https://github.com/libsdl-org/SDL/releases/tag/release-2.26.2) It should work if you put it in System32.
 
 You are absolutely welcome to fork, and issue pull requests to make this little script better! 😊
